@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Services - DIGITAL WORK HOME</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">DIGITAL WORK HOME</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html" class="active">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>Our Services</h1>
+  </section>
+
+  <section class="services-list">
+    <div class="service-item">
+      <h3>Online Form Filling</h3>
+      <p>We assist in completing online forms for scholarships, government schemes, and more.</p>
+    </div>
+    <div class="service-item">
+      <h3>Job Application Assistance</h3>
+      <p>Let us help you apply for jobs accurately and efficiently.</p>
+    </div>
+    <div class="service-item">
+      <h3>Data Entry Work</h3>
+      <p>We offer reliable data entry and document management services.</p>
+    </div>
+    <div class="service-item">
+      <h3>Digital Document Formatting</h3>
+      <p>Get your resumes, forms, and reports formatted professionally.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 DIGITAL WORK HOME | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
